@@ -1,0 +1,9 @@
+{
+    "defaultCommandTimeout":6000,
+
+    "env":
+    {
+        "url" : "http://192.168.4.187/trubi20v5rel"
+    }
+    
+}

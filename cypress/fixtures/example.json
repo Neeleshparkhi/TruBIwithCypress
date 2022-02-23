@@ -1,0 +1,16 @@
+{
+ "adminLogin" : "Neeleshtest",
+ "adminPassword" : "Ekdoteen@123",
+ "forgotPassword" : "neelesh.parkhi@datamatics.com",
+ "forgotPasswordWrongEmailID" : "n.p@datamatics.com",
+ "businessUserLogin" : "neeleshBusinessuser",
+ "businessUserPassword" : "System@123",
+ "dataAdminUserLogin" : "neeleshdataadmin",
+ "dataAdminUserPassword" : "System@123",
+ "all" : "All",
+ "dashboard" : "Dashboard",
+ "dashboardName" : "CypressAutomation",
+ "dataSourceName" : "invoice",
+ "datasourceselection" : "Invoice - Query"
+ 
+}
